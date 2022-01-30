@@ -1,0 +1,1 @@
+Check that 'master' is no longer returned for a commit, after another PR has merged. 
